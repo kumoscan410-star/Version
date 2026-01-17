@@ -1,10 +1,10 @@
 {
   "versionCode": 2,
   "versionName": "2.0.1",
-  "page": "https://yourdomain.com/index.html",
+  "page": "https://kumoscan410-star.github.io/Version/",
   "changelog": [
+    "إضافة نظام تحديث ذكي",
     "تحسين الأداء",
-    "إصلاح أخطاء",
-    "تحديثات أمنية"
+    "إصلاح أخطاء حرجة"
   ]
 }
